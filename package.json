@@ -1,0 +1,64 @@
+{
+  "_from": "cordova-plugin-fcm-with-dependecy-updated",
+  "_id": "cordova-plugin-fcm-with-dependecy-updated@2.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-uMA/k16e49otxFF4e8S9v+4RI98EjA+eceEJVK6k0UND24hWbyDDKHeRwAPJjgyB0iY60J5aHBZjEDrGF6RUBg==",
+  "_location": "/cordova-plugin-fcm-with-dependecy-updated",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-fcm-with-dependecy-updated",
+    "name": "cordova-plugin-fcm-with-dependecy-updated",
+    "escapedName": "cordova-plugin-fcm-with-dependecy-updated",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fcm-with-dependecy-updated/-/cordova-plugin-fcm-with-dependecy-updated-2.2.4.tgz",
+  "_shasum": "dd49bfa1b94f7fa7e1b2a3612cef021ea14e783e",
+  "_spec": "cordova-plugin-fcm-with-dependecy-updated",
+  "_where": "/home/jayachandra/www/fluke-assist-july/fluke-assist-hybrid",
+  "author": {
+    "name": "André Augusto Tissot"
+  },
+  "bugs": {
+    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Cordova FCM Push Plugin",
+  "deprecated": false,
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
+  "engines": [],
+  "englishdoc": "",
+  "homepage": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated#readme",
+  "issue": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-fcm-with-dependecy-updated",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "repo": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git"
+  },
+  "version": "2.2.4"
+}
